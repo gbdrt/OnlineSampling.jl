@@ -13,5 +13,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/wazizian/OnlineSampling.jl.git",
+    repo = "github.com/gbdrt/OnlineSampling.jl.git",
+    devbranch = "documentation"
 )
